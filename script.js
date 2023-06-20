@@ -10,5 +10,5 @@ for(i=0;i<arr.length;i++){
 document.write("<br>")
 document.write("<br>")
 document.write("<br>")
-document.write("<br>")
+// document.write("<br>")
 document.write("Sum Of The Given Array is " +sum)
